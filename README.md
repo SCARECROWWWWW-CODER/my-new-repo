@@ -1,6 +1,6 @@
 # my-new-repo
 JUST TRYING THIS SHIT
 </br>
-hwlloooo nayan
+hwlloooo nayn
 hwllo from git branch yoo
 
